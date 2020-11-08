@@ -1,0 +1,1 @@
+pandoc ch_0-intro.md ch_1-allow.md ch_2-early.md ch_3-after.md ch_4-navy.md ch_5-live-one.md ch_6-dead.md ch_7-predation.md ch_8-fuellers.md ch_9-mammon.md ch_10-kane.md ch_11-Moloch.md ch_12-september.md ch_13-belial.md ch_14-billy.md ch_15-palo.md ch_16-weights.md sabak.md -o lightOfDarkness.epub
